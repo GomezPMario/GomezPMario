@@ -13,5 +13,4 @@ Hello!<br><br>Nice to meet you! I'm Mario Gómez, a Computer Engineering student
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GomezPMario&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GomezPMario&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=GomezPMario&icon=0&color=2)](https://visitcount.itsvg.in)
