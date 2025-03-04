@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hello!<br><br>Nice to meet you! I'm Mario Gómez, a Computer Engineering student from the University of San Jorge in Zaragoza, specializing in the development of innovative technological solutions. My passion for computer science and new technologies has led me to acquire a strong foundation of knowledge and technical skills throughout my career.<br><br>I am a collaborative leader and I excel at effectively communicating ideas and fostering active team participation. Additionally, I have a strong customer orientation and enjoy helping people solve their technological challenges.<br><br>I am highly organized, adaptable, and capable of efficiently solving complex problems. My work ethic and constant dedication drive me to achieve excellence in all my tasks.<br><br>In my free time, I combine my passion for computer science with basketball, which has taught me the importance of teamwork, discipline, and perseverance.<br><br>If you are looking for a proactive professional, results-oriented, and with a solid technical foundation, please do not hesitate to contact me. I am excited to contribute to the success of your company and face new challenges in the world of technology.<br><br>Greetings!
+Hello! 👋  
+
+I'm **Mario Gómez Peña**, a **Computer Engineering** student at the **University of San Jorge** in **Zaragoza**. Passionate about **software development, data analysis, and algorithm optimization**, I focus on creating innovative technological solutions that improve efficiency and usability.  
+
+I have experience working on **web applications** with **React, Node.js, and databases**, as well as **low-level programming in C**. One of my current projects involves developing a **basketball referee management system**, integrating **data visualization, user authentication, and API handling**. Additionally, I have worked on **automated Sudoku generation** and exporting structured data to **Excel**.  
+
+Beyond coding, I combine my passion for **technology and basketball**, a sport that has taught me **discipline, teamwork, and resilience**. I enjoy tackling **complex challenges**, improving **workflow automation**, and refining **problem-solving techniques**.  
+
+If you're looking for a **proactive, results-driven developer** with a solid technical foundation, feel free to reach out! I'm always eager to take on **new challenges** and collaborate on exciting **tech projects**.  
+
+🚀 **Let’s build something great together!**  
+
 
 
 ## 🌐 Socials:
